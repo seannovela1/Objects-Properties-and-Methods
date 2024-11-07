@@ -20,3 +20,8 @@ myArray.pop();//Removes 100
 myArray.pop();//Removes 90
 myArray.pop();//Removes 80
 console.log("Array after 3 pops:",myArray);
+// The new values were removed from the end of the array
+
+// Step 6: Declare a string variable and output its length
+let myString = "Hello, World!";
+console.log("length of myString:",myString.length);// Length of myString: 13
